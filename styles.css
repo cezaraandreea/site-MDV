@@ -232,13 +232,12 @@ div.transbox p {
   background-color: #612058;
 }
 .site-footer .item.social > a {
-  font-size: 20px;
-  width: 25px;
-  height: 25px;
-  line-height: 25px;
-  display:contents;
+  font-size: 30px;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  display: flex;
   text-align: center;
-  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4);
   margin: auto;
   color: #fefefe;
   opacity: 0.75;
