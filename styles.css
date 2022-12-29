@@ -226,21 +226,27 @@ div.transbox p {
   font-size: 20px;
   font-family: Helvetica, sans-serif;
 }
-
+/* Footer */
 .site-footer {
   padding: 40px 0;
   background-color: #612058;
 }
-.site-footer .item.social > a {
+
+.social-icons {
+  line-height: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  padding: 10px;
+  color: #fefefe;
   font-size: 30px;
   width: 35px;
   height: 35px;
-  line-height: 35px;
-  display: flex;
-  text-align: center;
-  margin: auto;
-  color: #fefefe;
-  opacity: 0.75;
+  opacity: 0.7;
 }
 
 
