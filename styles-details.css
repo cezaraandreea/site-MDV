@@ -86,25 +86,22 @@ body{
 a {
     text-decoration: none;
     display: inline-block;
-    padding: 8px 16px;
-    
+    padding: 8px 16px;    
   }
   
-  a:hover {
+a:hover {
     background-color: #612058;
     color: white;
   }
   
   .previous {
     background-color: transparent;
-    color: black;
-    
+    color: black;    
   }
   
   .next {
     background-color: transparent;
-    color: black;
-    
+    color: black;    
   }
   
   
