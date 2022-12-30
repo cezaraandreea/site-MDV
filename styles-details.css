@@ -79,6 +79,35 @@ body{
     width: 100%;
   }
 }
+.butoane{
+  display: flex;
+  justify-content: start;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    
+  }
+  
+  a:hover {
+    background-color: #612058;
+    color: white;
+  }
+  
+  .previous {
+    background-color: transparent;
+    color: black;
+    
+  }
+  
+  .next {
+    background-color: transparent;
+    color: black;
+    
+  }
+  
+  
 .img-container {
   display: flex;
   align-items: center;
