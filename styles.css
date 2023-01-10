@@ -138,7 +138,10 @@ div.transbox p {
 .box6,
 .box7,
 .box8,
-.box9 {
+.box9,
+.box10,
+.box11,
+.box12 {
   background-color: #fefefe;
   height: 286px;
   width: 267px;
@@ -160,13 +163,73 @@ div.transbox p {
 }
 
 .box1 {
-  background-image: url("Ioana.jpg");
+  background-image: url("_MG_9289 - Octavian Apetrei.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .box2 {
-  background-image: url("austin-wade-X6Uj51n5CE8-unsplash.jpg");
+  background-image: url("32669F21-E1C4-45F2-8B87-CEEA937FD6E7 - Maria Cucu.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box3 {
+  background-image: url("IMG_20230104_154428 - Ada Pîrjol.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box4 {
+  background-image: url("20220715_195503-01 - Diana Haba.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box5 {
+  background-image: url("IMG_5146 - Maria Pasca.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box6 {
+  background-image: url("Jobshop-87 - Gherasim Teodor Samuel.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box7 {
+  background-image: url("0D7770F8-6D9D-4D98-9E90-5B50416CDA11 - Alexandra Sicobean.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box8 {
+  background-image: url("1640354329445 - Tudor Vizitiu.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box9 {
+  background-image: url("WhatsApp Image 2022-09-03 at 8.33.51 PM - patricia munteanu.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box10 {
+  background-image: url("PSX_20230105_154222 - Livia Mitrică.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box11 {
+  background-image: url("Portrait_of_Ioan_Dragomir - Ioan Dragomir.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box12 {
+  background-image: url("Adelin - Popescu Adelin.jpg");
   background-position: center;
   background-size: cover;
 }

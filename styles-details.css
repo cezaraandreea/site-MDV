@@ -164,6 +164,13 @@ a:hover {
   border-radius: 20px;
   position: relative;
   width: 80%;
+  font-family: Helvetica, sans-serif;
+  align-content: center;
+  display: inline-block;
+}
+
+.text2{
+  text-align: left;
 }
 
 .site-footer {
@@ -250,6 +257,7 @@ a:hover {
     border-width: 2px;
     border-radius: 20px;
     position: relative;
+    font-family: Helvetica, sans-serif;
   }
 
   .img-container{
@@ -297,6 +305,7 @@ a:hover {
     border-width: 2px;
     border-radius: 20px;
     position: relative;
+    font-family: Helvetica, sans-serif;
   }
   
 }
