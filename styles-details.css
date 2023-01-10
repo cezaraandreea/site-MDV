@@ -165,12 +165,13 @@ a:hover {
   position: relative;
   width: 80%;
   font-family: Helvetica, sans-serif;
-  align-content: center;
   display: inline-block;
 }
 
 .text2{
-  text-align: left;
+  text-align: start;
+  width: 50%;
+  display: inline-block;
 }
 
 .site-footer {
