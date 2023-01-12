@@ -151,6 +151,7 @@ a:hover {
   max-height: 400px;
   position: relative;
   margin: auto;
+  overflow: hidden;
 }
 
 .text {
@@ -242,10 +243,11 @@ a:hover {
   }
   .profile {
     border-radius: 10px;
-    margin: auto;
-    max-height: 250px;
+    margin: auto;    
     position: relative;
-    width: 250px;
+    width: 60%;
+    height: auto;
+    background-position: contain;
   }
 
   .text {
