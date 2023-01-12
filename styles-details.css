@@ -248,6 +248,7 @@ a:hover {
     width: 60%;
     height: auto;
     background-position: contain;
+    object-fit: cover;
   }
 
   .text {
@@ -292,7 +293,8 @@ a:hover {
     font-family: Helvetica, sans-serif;
   }
   .profile {
-    width: 80%;
+    width: auto;
+    height: auto;
     margin: auto;
     position: relative;
     border-radius: 10px;
