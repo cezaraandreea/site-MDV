@@ -121,6 +121,7 @@ div.transbox {
   border-radius: 20px;
   opacity: 0.6;
   width: 70%;
+  padding: auto;
 }
 
 div.transbox p {
@@ -128,6 +129,9 @@ div.transbox p {
   font-weight: bold;
   color: #612058;
   text-align: center;
+  overflow: auto;
+  text-overflow: ellipsis;
+  
 }
 
 .box1,
@@ -163,73 +167,73 @@ div.transbox p {
 }
 
 .box1 {
-  background-image: url("octav.jpg");
+  background-image: url("octavApetrei.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .box2 {
-  background-image: url("32669F21-E1C4-45F2-8B87-CEEA937FD6E7 - Maria Cucu.jpeg");
+  background-image: url("mariaCucu.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 .box3 {
-  background-image: url("IMG_20230104_154428 - Ada Pîrjol.jpg");
+  background-image: url("adaPirjol.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .box4 {
-  background-image: url("20220715_195503-01 - Diana Haba.jpeg");
+  background-image: url("dianaHaba.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 .box5 {
-  background-image: url("IMG_5146 - Maria Pasca.jpg");
+  background-image: url("mariaPasca.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .box6 {
-  background-image: url("Jobshop-87 - Gherasim Teodor Samuel.jpg");
+  background-image: url("samiGherasim.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .box7 {
-  background-image: url("0D7770F8-6D9D-4D98-9E90-5B50416CDA11 - Alexandra Sicobean.jpeg");
+  background-image: url("aleSicobean.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 .box8 {
-  background-image: url("1640354329445 - Tudor Vizitiu.jpeg");
+  background-image: url("tudorVizitiu.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 .box9 {
-  background-image: url("WhatsApp Image 2022-09-03 at 8.33.51 PM - patricia munteanu.jpeg");
+  background-image: url("patriciaMunteanu.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 .box10 {
-  background-image: url("PSX_20230105_154222 - Livia Mitrică.jpg");
+  background-image: url("liviaMitrica.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .box11 {
-  background-image: url("Portrait_of_Ioan_Dragomir - Ioan Dragomir.jpeg");
+  background-image: url("ioanDragomir.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 .box12 {
-  background-image: url("Adelin - Popescu Adelin.jpg");
+  background-image: url("adelinPopescu.jpg");
   background-position: center;
   background-size: cover;
 }
