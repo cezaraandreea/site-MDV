@@ -131,7 +131,7 @@ div.transbox p {
   text-align: justify center;
   overflow: auto;
   text-overflow: ellipsis;
-  
+  padding: 7px;
 }
 
 .box1,
