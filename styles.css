@@ -128,7 +128,7 @@ div.transbox p {
   margin: auto;
   font-weight: bold;
   color: #612058;
-  text-align: center;
+  text-align: justify center;
   overflow: auto;
   text-overflow: ellipsis;
   
@@ -145,7 +145,10 @@ div.transbox p {
 .box9,
 .box10,
 .box11,
-.box12 {
+.box12,
+.box13,
+.box14,
+.box15 {
   background-color: #fefefe;
   height: 286px;
   width: 267px;
@@ -191,7 +194,7 @@ div.transbox p {
 }
 
 .box5 {
-  background-image: url("mariaPasca.jpg");
+  background-image: url("dianaDulgheriu.jpeg");
   background-position: center;
   background-size: cover;
 }
@@ -215,7 +218,7 @@ div.transbox p {
 }
 
 .box9 {
-  background-image: url("patriciaMunteanu.jpeg");
+  background-image: url("tudorPal.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -234,6 +237,24 @@ div.transbox p {
 
 .box12 {
   background-image: url("adelinPopescu.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box13 {
+  background-image: url("maraMesesan.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.box14 {
+  background-image: url("letitziaDall'ara.JPG");
+  background-position: center;
+  background-size: cover;
+}
+
+.box15 {
+  background-image: url("andreeaGavrila.jpg");
   background-position: center;
   background-size: cover;
 }
